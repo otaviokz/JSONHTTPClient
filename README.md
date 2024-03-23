@@ -1,6 +1,6 @@
 ## Overview
 
-This package is meant as a very simple HTTP client for use in HTTP connections that return JSON data. It only implements GET and POST URL methods. 
+This package is meant as a very simple HTTP client for use in HTTP connections that send an/or return JSON data. Just add it to your Swift Package Dependencies and free your time to work on the API (urls, endpoints, types returned etc) layer.
 
 Methods available:
 
